@@ -1,3 +1,7 @@
+  <p align="center" >
+  <img width="150" src="https://github.com/kawthar-146/markdown-cv/blob/main/koko.jpg?raw=true">
+</p>
+
   ## Kawthar Zeayter
 >                 Full Stack Web Developer
 > Address: Beirut | E-mail: kawtharzeayter.6@gmail.com | Mobile: 961 71965779 | LinkedIn: www.linkedin.com/in/kawthar-zeayter
