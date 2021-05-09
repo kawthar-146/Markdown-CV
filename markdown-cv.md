@@ -1,5 +1,5 @@
   <p align="center" >
-  <img width="150" src="https://github.com/kawthar-146/markdown-CV/blob/main/img/koko.jpg?raw=true">
+  <img width="150" src="https://github.com/kawthar-146/markdown/blob/main/img/koko.jpg?raw=true">
 </p>
 
   ## Kawthar Zeayter
