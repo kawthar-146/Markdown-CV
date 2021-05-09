@@ -76,6 +76,6 @@ RELATED COURSES
 | -------- | ---------------|-----|
 | Web Programming  | Data security|Data Structures
 | Database | Development Platform |c++
-|System analysis | Multimedia
+|System analysis | Multimedia | Marketing
 
 
