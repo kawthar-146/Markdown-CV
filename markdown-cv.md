@@ -1,7 +1,6 @@
-
->                            Kawthar Zeayter 
->                        Full Stack Web Developer
->Address: Beirut | E-mail: kawtharzeayter.6@gmail.com | Mobile: 961 71965779 | LinkedIn: www.linkedin.com/in/kawthar-zeayter
+  ## Kawthar Zeayter
+>                 Full Stack Web Developer
+> Address: Beirut | E-mail: kawtharzeayter.6@gmail.com | Mobile: 961 71965779 | LinkedIn: www.linkedin.com/in/kawthar-zeayter
 
    OBJECTIVE
    ---------
@@ -77,13 +76,6 @@ RELATED COURSES
 | -------- | ---------------|-----|
 | Web Programming  | Data security|Data Structures
 | Database | Development Platform |c++
-|System analysis | Multimedia 
-
-
-
-
-
-
-
+|System analysis | Multimedia
 
 
